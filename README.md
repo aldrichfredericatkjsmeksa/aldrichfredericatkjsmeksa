@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ4aXZ5d2VpZ3R0d3R5dG5jZ3B5Y2J6eHZ6bGZ1ZzZ1bnRqYWZ5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="Anime Dance">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGFnZmdqa3o5ODA2M3F0b2Rpd2h0MXVqZXh0dW5obmJ1MzJxOG42cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4TmxH7ZMn1aYE/giphy.gif" width="200" alt="Anime Dance">
   
   **Kon'nichiwa!** 👋 I'm [Your Name], an anime-loving developer!
 </div>
